@@ -4,7 +4,7 @@
 
 Time spent: **8** hours spent in total
 
-## User Stories
+##  User Stories
 
 The following **required** functionality is completed:
 
